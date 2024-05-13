@@ -1,0 +1,10 @@
+5/13/2024 3:58:44 AM	This log contains information about the import schema operation into project 'AzureDevOpsSQlDBUpdate' on computer 'rahmeds003' by user 'rahmeds'.
+5/13/2024 3:58:44 AM	Deserializing model
+5/13/2024 3:58:45 AM	Resolving model
+5/13/2024 3:58:45 AM	Visiting imported model for types
+5/13/2024 3:58:45 AM	Scanning project for duplicate elements
+5/13/2024 3:58:45 AM	Finished duplicate element processing
+5/13/2024 3:58:45 AM	Processing extra files
+5/13/2024 3:58:45 AM	Finished importing Data-tier Application file.
+5/13/2024 3:58:45 AM	A summary of the import was saved to the following location: C:\Users\rahmeds\source\DevOps\riyaz78\DevOps\AzureDevOpsSQlDBUpdate\Import Schema Logs\AzureDevOpsSQlDBUpda_20240513035844.log
+5/13/2024 3:58:45 AM	Click Finish to continue...
